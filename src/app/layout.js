@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Brindavan Gardens | Brindavan Garden Mysore | Places in Mysore",
   description: "Your guide for Brindavan garden Mysore. Places in mysore that you would love. Learn all about brindavan gardens here. All parts of the garden well....",
+    alternates: {
+        canonical: "https://www.brindavangardens.com"
+      },
    icons: {
     icon: [
       { url: '/Brindavan-45x45.png', sizes: '32x32', type: 'image/png' },
